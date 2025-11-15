@@ -1,2 +1,2 @@
 # sol
-This is learning p
+This is learning platform

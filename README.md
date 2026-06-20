@@ -38,4 +38,4 @@ This is learning platform
 * **Framework:** Express.js
 * **Database:** MongoDB (MERN capabilities for storing student schema, quiz trees, and analytics data)
 * **AI Service Layer:** Prompt integration using REST endpoints for structured text generation.
-* 
+  
